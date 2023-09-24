@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/sarpere/website-v2/compare/v1.0.0...v1.0.1) (2023-09-24)
+
+
+### Bug Fixes
+
+* **build-config:** output config updated as 'export' ([c06f92e](https://github.com/sarpere/website-v2/commit/c06f92ef60a188e49612a0c880293f105dd6f39e))
+
 ## 1.0.0 (2023-09-24)
 
 
